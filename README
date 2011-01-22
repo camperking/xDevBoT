@@ -3,3 +3,5 @@ xDevBot
 this is a jabber/xmpp multiuserchat(muc) bot.
 look here https://github.com/camperking/xDevBoT/wiki for more information
 and how to build your own bot
+
+uses Smack API 3.1.0 from http://www.igniterealtime.org/projects/smack/
